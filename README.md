@@ -1,1 +1,1 @@
-# Shoro
+Talrading bot# Shoro
